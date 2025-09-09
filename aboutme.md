@@ -1,3 +1,3 @@
 Syed Zuhair Ali
-Bachelors in Computer Science
-Hobby: Reading books
+\nBachelors in Computer Science
+\nHobby: Reading books
