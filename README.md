@@ -4,5 +4,5 @@ I am pursuing a degree in Computer Science at FAST University. I have worked wit
  1.Python  
  2.C#  
  I have also dabbled in game design, making games in game engines like:  
-    - Unity  
-    - Godot
+ - Unity
+ - Godot
